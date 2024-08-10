@@ -1,7 +1,5 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Built using:
 
 - Front-end library: React
@@ -11,22 +9,19 @@ Built using:
 In the /personal-portfolio, you can run:
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/user-attachments/assets/32ba9fa8-dcf5-4f35-84aa-22d2d70e9e09)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/user-attachments/assets/71449842-4e5c-4151-b5cb-b5a1f4639610)
+
+![image](https://github.com/user-attachments/assets/ae093972-a6de-4720-91b4-a251648fc698)
+
+![image](https://github.com/user-attachments/assets/df08d3d0-9f92-4673-8955-d0da3197cfe3)
+
+![image](https://github.com/user-attachments/assets/bc6f89c0-ed45-4ccd-b42f-0a816b97f3ee)
+
+![image](https://github.com/user-attachments/assets/4f7c5a99-d712-49db-92fe-fa38fe557ef0)
+
+![image](https://github.com/user-attachments/assets/43cabaf7-8cd2-4aea-acac-4b5a09319ec1)
